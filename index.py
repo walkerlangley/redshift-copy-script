@@ -1,5 +1,4 @@
 import os
-import boto3
 import pg8000
 
 port = 5439
